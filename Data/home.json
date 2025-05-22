@@ -1,7 +1,7 @@
 {
   "top": [
     {
-      "topic": "Soils",
+      "topic": "Foil",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Video",
       "src": "Youtube",
@@ -9,7 +9,7 @@
       "img": ["./Media/Geography/Moon.png"]
     },
     {
-      "topic": "Soils",
+      "topic": "Money",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Document",
       "src": "Wikipedia",
@@ -17,7 +17,7 @@
       "img": ["./Media/Geography/Galaxy.png", "./Media/Geography/Moon.png"]
     },
     {
-      "topic": "Soils",
+      "topic": "Bank",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Video",
       "src": "Youtube",
@@ -25,7 +25,7 @@
       "img": ["./Media/Geography/Moon.png"]
     },
     {
-      "topic": "Soils",
+      "topic": "America",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Document",
       "src": "Wikipedia",
@@ -33,7 +33,7 @@
       "img": ["./Media/Geography/Galaxy.png", "./Media/Geography/Moon.png"]
     },
     {
-      "topic": "Soils",
+      "topic": "Africa",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Video",
       "src": "Youtube",
@@ -41,7 +41,7 @@
       "img": ["./Media/Geography/Moon.png"]
     },
     {
-      "topic": "Soils",
+      "topic": "School",
       "des": "This Video will teach you all the basics you need to know about soils an their soil types 45m",
       "type": "Document",
       "src": "Wikipedia",
@@ -55,7 +55,7 @@
       "lessons": [
         {
           "type": "Video",
-          "topic": "Photo of the Galaxy and the wonders it brings to the world",
+          "topic": "Photo of the Galaxy",
           "img": ["./Media/Geography/Galaxy.png"],
           "des": "This Picture Shows Picture a Galaxy out there in Space the Galaxy of mio",
           "src": "Youtube",
