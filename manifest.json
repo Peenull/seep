@@ -1,0 +1,8 @@
+{
+  "short_name": "seep",
+  "name": "seep",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#242424",
+  "background_color": "#f1f1f1"
+}
