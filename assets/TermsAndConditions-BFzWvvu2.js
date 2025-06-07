@@ -1,1 +1,0 @@
-import{j as e}from"./index-f3iI70po.js";function n(s){return e.jsx("div",{className:"beekButton",style:{display:"flex",alignItems:"center",gap:"5px",color:"#1010ff"},children:e.jsx("p",{children:"Back"})})}export{n as default};
