@@ -1,0 +1,1 @@
+import{j as e}from"./index-De4wfkmr.js";function r(s){return e.jsx("div",{className:"beekButton",style:{display:"flex",alignItems:"center",gap:"5px",color:"#1010ff"},children:e.jsx("p",{children:"Hello World"})})}export{r as default};
